@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.109.56.113:8081/repository/ccit-releases/</url>
+		    <url>http://http://3.86.212.123:8081/#admin/repository/repositories:shiva-releases/</url>
 		</repository>
   	</distributionManagement>
 	
